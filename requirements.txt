@@ -1,0 +1,6 @@
+openai
+streamlit
+fastapi
+uvicorn
+python-dotenv
+reportlab
