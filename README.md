@@ -123,7 +123,7 @@ streamlit run ui/app.py
 **Teja Rachakonda**  
 
 - LinkedIn: https://www.linkedin.com/in/teja-rachakonda/  
-- GitHub: https://github.com/YOUR_USERNAME  
+- GitHub: https://github.com/Teja-rachakonda?tab=repositories
 
 ---
 
